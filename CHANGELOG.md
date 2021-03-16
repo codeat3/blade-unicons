@@ -1,0 +1,8 @@
+# Changelog
+
+This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
+
+## 0.1.0 (2021-03-16)
+
+Initial release.
+Current package support [Unicons v3.0.0](https://github.com/Iconscout/unicons/releases/tag/v3.0.0)
