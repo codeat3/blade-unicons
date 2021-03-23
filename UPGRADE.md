@@ -19,5 +19,5 @@ php artisan vendor:publish --tag=blade-uni --force
 The new way to reference them is:
 
 ```blade
-<img src="{{ asset('vendor/blade-uni/alarm-clock.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-uni/paperclip.svg') }}" width="10" height="10"/>
 ```

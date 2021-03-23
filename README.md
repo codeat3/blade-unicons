@@ -23,8 +23,8 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 
 ## Requirements
 
-- PHP 7.3 or higher
-- Laravel 7.14 or higher
+- PHP 7.4 or higher
+- Laravel 8.0 or higher
 
 ## Installation
 
@@ -41,19 +41,19 @@ Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
 Icons can be used as self-closing Blade components which will be compiled to SVG icons:
 
 ```blade
-<x-uni-alarm-clock/>
+<x-uni-paperclip/>
 ```
 
 You can also pass classes to your icon components:
 
 ```blade
-<x-uni-alarm-clock class="w-6 h-6 text-gray-500"/>
+<x-uni-paperclip class="w-6 h-6 text-gray-500"/>
 ```
 
 And even use inline styles:
 
 ```blade
-<x-uni-alarm-clock style="color: #555"/>
+<x-uni-paperclip style="color: #555"/>
 ```
 
 ### Raw SVG Icons
@@ -67,7 +67,7 @@ php artisan vendor:publish --tag=blade-uni --force
 Then use them in your views like:
 
 ```blade
-<img src="{{ asset('vendor/blade-uni/alarm-clock.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-uni/paperclip.svg') }}" width="10" height="10"/>
 ```
 
 ### Blade Icons
