@@ -72,7 +72,7 @@ Then use them in your views like:
 
 ### Blade Icons
 
-Blade System UIcons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality.
+Blade Unicons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality.
 
 ## Changelog
 
