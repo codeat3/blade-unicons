@@ -2,7 +2,7 @@
     <img src="https://banners.beyondco.de/Blade%20Unicons.png?theme=light&packageManager=composer+require&packageName=codeat3%2Fblade-unicons&pattern=architect&style=style_1&description=A+package+to+use+Unicons+in+your+Laravel+Blade+views&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="1280" title="Social Card Blade Unicons">
 </p>
 
-# Blade Simple Icons
+# Blade Unicons
 
 <a href="https://github.com/codeat3/blade-unicons/actions?query=workflow%3ATests">
     <img src="https://github.com/codeat3/blade-unicons/workflows/Tests/badge.svg" alt="Tests">
@@ -80,8 +80,8 @@ Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent ch
 
 ## Maintainers
 
-Blade Simple Icons is developed and maintained by [Swapnil Sarwe](https://swapnilsarwe.com).
+Blade Unicons is developed and maintained by [Swapnil Sarwe](https://swapnilsarwe.com).
 
 ## License
 
-Blade Simple Icons is open-sourced software licensed under [the MIT license](LICENSE.md).
+Blade Unicons is open-sourced software licensed under [the MIT license](LICENSE.md).
