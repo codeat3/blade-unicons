@@ -32,7 +32,7 @@ final class BladeUniconsServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__.'/../resources/svg' => public_path('vendor/blade-unicons'),
-            ], 'blade-unicons');
+            ], 'blade-uni'); // TODO: update this alias to `blade-unicons` in next major release
 
             $this->publishes([
                 __DIR__.'/../config/blade-unicons.php' => $this->app->configPath('blade-unicons.php'),
