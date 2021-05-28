@@ -2,11 +2,14 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.3.2 (2021-05-28)
+added thinline icons with suffix `-thin`
+
 ## 1.2.2 (2021-05-28)
 fixes the attrs for outline icons
 
 ## 1.2.1 (2021-05-28)
-added line icons with prefix `-o`
+added line icons with suffix `-o`
 
 ## 1.1.1 (2021-05-12)
 typo fix the alias used to publish icons
