@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.2.2 (2021-05-28)
+fixes the attrs for outline icons
+
 ## 1.2.1 (2021-05-28)
 added line icons with prefix `-o`
 
