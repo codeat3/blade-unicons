@@ -2,7 +2,7 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## 1.2.1 (2021-05-12)
+## 1.2.1 (2021-05-28)
 added line icons with prefix `-o`
 
 ## 1.1.1 (2021-05-12)
