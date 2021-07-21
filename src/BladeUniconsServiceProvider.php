@@ -19,7 +19,6 @@ final class BladeUniconsServiceProvider extends ServiceProvider
 
             $factory->add('unicons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeUniconsServiceProvider extends ServiceProvider
             ], 'blade-unicons-config');
         }
     }
-
 }
