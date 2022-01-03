@@ -2,21 +2,33 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-unicons/compare/1.3.2...main)
+## [Unreleased](https://github.com/codeat3/blade-unicons/compare/1.4.2...HEAD)
+
+## [1.4.2](https://github.com/codeat3/blade-unicons/compare/1.3.2...1.4.2) - 2022-01-03
+
+### Dev Update
+
+- added auto update change log workflow
+- running auto update only once a week
 
 ## 1.3.2 (2021-05-28)
+
 added thinline icons with suffix `-thin`
 
 ## 1.2.2 (2021-05-28)
+
 fixes the attrs for outline icons
 
 ## 1.2.1 (2021-05-28)
+
 added line icons with suffix `-o`
 
 ## 1.1.1 (2021-05-12)
+
 typo fix the alias used to publish icons
 
 ## 1.1.0 (2021-05-12)
+
 Added support for config file
 
 ## 1.0.0 (2021-03-23)
