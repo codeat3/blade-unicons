@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-unicons/compare/1.4.2...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-unicons/compare/1.5.2...HEAD)
+
+## [1.5.2](https://github.com/codeat3/blade-unicons/compare/1.4.2...1.5.2) - 2022-02-07
+
+## What's Changed
+
+- Added support for Laravel 9 by @swapnilsarwe in https://github.com/codeat3/blade-unicons/pull/5
+
+**Full Changelog**: https://github.com/codeat3/blade-unicons/compare/1.4.2...1.5.2
 
 ## [1.4.2](https://github.com/codeat3/blade-unicons/compare/1.3.2...1.4.2) - 2022-01-03
 
