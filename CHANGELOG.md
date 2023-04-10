@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-unicons/compare/1.6.2...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-unicons/compare/1.7.2...HEAD)
+
+## [1.7.2](https://github.com/codeat3/blade-unicons/compare/1.6.2...1.7.2) - 2023-04-10
+
+### What's Changed
+
+- chore: update icons with the latest commit [691ff29](https://github.com/Iconscout/unicons/commit/691ff29fd130557a2ce7d991cef24bcd6644ad44) by @github-actions in https://github.com/codeat3/blade-unicons/pull/14
+
+**Full Changelog**: https://github.com/codeat3/blade-unicons/compare/1.6.2...1.7.2
 
 ## [1.6.2](https://github.com/codeat3/blade-unicons/compare/1.5.2...1.6.2) - 2023-02-18
 
